@@ -1,4 +1,4 @@
-# Web
+# Web Development, Webserver Programming &amp; Interface Graduating Project
 ## ENG
 ### -This is the graduating project for the courses: web development 2, webserver programming 1 &amp; interface design 1 at Erik Dahlbergsgymnasiet.
 
